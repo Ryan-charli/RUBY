@@ -1,2 +1,0 @@
-# RUBY
- ICTWEB516
